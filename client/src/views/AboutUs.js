@@ -1,6 +1,7 @@
 import React from 'react';
 import AboutInfo from '../components/AboutInfo';
 import SubmissionForm from '../components/SubmissionForm'
+import {} from 'react-bootstrap';
 
 const AboutUs = () =>{
     return(

@@ -1,6 +1,7 @@
 import React from 'react';
 import PostForm from '../components/PostForm';
 import AllSubmissions from '../components/AllSubmissions';
+import {} from 'react-bootstrap';
 
 
 const Admin = () =>{
