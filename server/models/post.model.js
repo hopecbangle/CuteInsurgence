@@ -1,6 +1,6 @@
-const mongoose = require('mongoose');
+const mongoose = require("mongoose");
 
-const PostSchema = new mongoose.Schema({}, {timestamps:true});
+const PostSchema = new mongoose.Schema({}, { timestamps: true });
 
-const Post = mongoose.model('Admin', PostSchema);
+const Post = mongoose.model("Post", PostSchema);
 module.exports = Post;
